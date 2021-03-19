@@ -3,7 +3,7 @@ from aiogram import executor, types
 from misc import dp, bot
 
 import config
-import handlers
+# import handlers
 import table
 
 

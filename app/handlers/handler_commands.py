@@ -1,7 +1,7 @@
 from aiogram.types import Message
-from app.misc import dp
+from misc import dp
 
-from app import table
+import table
 
 
 @dp.message_handler(commands='start')
